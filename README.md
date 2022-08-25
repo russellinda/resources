@@ -6,13 +6,13 @@
   <table>
     <tr>
       <th>
-        <img width="130" height="190" src="jane-russell.jpg"/>
+        <img width="130" height="190" alt="Jane Russell" src="jane-russell.jpg"/>
       </th>
       <th>
-        <img width="130" height="190" src="marilyn-monroe.jpg"/>
+        <img width="130" height="190" alt="Marilyn Monroe" src="marilyn-monroe.jpg"/>
       </th>
       <th>
-        <img width="130" height="190" src="jeanne-crain.jpg"/>
+        <img width="130" height="190" alt="Jeanne Crain" src="jeanne-crain.jpg"/>
       </th>
     </tr>
     <tr>
